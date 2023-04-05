@@ -1,5 +1,6 @@
 <div align=center>
 ### Hi there 👋
+<a href="https://github.com/TAEJUN-EOM"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTAEJUN-EOM%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!--
 **TAEJUN-EOM/TAEJUN-EOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
